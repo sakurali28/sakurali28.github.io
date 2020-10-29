@@ -2218,6 +2218,23 @@ input, select, textarea {
 
 /* Image */
 
+	.circular--portrait {
+		position: relative;
+		width: 200px;
+		height: 200px;
+		overflow: hidden;
+		border-radius: 50%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.circular--portrait img {
+		width: 100%;
+		height: auto;
+	}
+
+
 	.image {
 		border: 0;
 		display: inline-block;
