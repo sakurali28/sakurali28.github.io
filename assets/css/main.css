@@ -2352,7 +2352,7 @@ input, select, textarea {
 
 	ul.icons-grid {
 		list-style: none;
-		padding: 0;
+		padding: 1.5;
 		position: relative;
 	}
 
